@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossam7amdy" alt="hossam7amdy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dev-hossam.vercel.app/](https://dev-hossam.vercel.app/)
+- 👨‍💻 All of my projects are available at [hossamhamdy.me](hossamhamdy.me)
 
 - 💬 Ask me about **javascript, node.js**
 
 - 📫 How to reach me **hossamhamdy117@gmail.com**
 
-- 📄 Know about my experiences [https://dev-hossam.vercel.app/#about](https://dev-hossam.vercel.app/#about)
+- 📄 Know about my experiences [hossamhamdy.me#about](hossamhamdy.me#about)
 
 - ⚡ Fun fact **I like pandas**
 
