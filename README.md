@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer specialized in creating resilient, scalable APIs and modular architectures using **TypeScript**, **NodeJS**, and **PostgreSQL**. I have extensive experience with containerization, cloud services (AWS), and CI/CD pipelines to streamline deployment and testing. My core focus is delivering maintainable, testable solutions that drive innovation and excellence.
+I am a Full Stack Software Developer specializing in web development with **React**, **Next.js**, and **TypeScript/JavaScript**, and strong **Node.js** expertise. Proven success in enhancing portal performance, optimizing data handling, and building scalable, responsive architectures within Agile environments. Proficient in API development, CI/CD, automated testing, and maintaining high-quality code.
 
 - 🌍 I'm based in **Giza, Egypt**
 - ✉️ How to reach me: **[hossamhamdy117@gmail.com](mailto:hossamhamdy117@gmail.com)**
