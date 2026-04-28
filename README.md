@@ -65,12 +65,3 @@ I am a Full Stack Software Developer specializing in web development with **Reac
 </p>
 
 ---
-
-### 🚀 Highlighted Projects
-
-- 🛒 **Resala Store**
-  An advanced E-commerce platform built using **MedusaJS** and **Next.js**. Features include real-time search, robust indexing and filtering, advanced order management, and highly secure payment processing flows.
-- 🎙️ **Voice AI Chat App**
-  A Next.js application that seamlessly integrates the **ChatGPT API** with real-time streaming alongside native browser Web APIs for high-performance audio/voice interaction.
-
----
